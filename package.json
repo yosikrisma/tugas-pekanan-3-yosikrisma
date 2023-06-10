@@ -1,0 +1,11 @@
+{
+  "name": "tugas-pekanan-3-yosikrisma",
+  "version": "1.0.0",
+  "description": "tugas pekanan 3 yosi krisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "yosikrisma",
+  "license": "ISC"
+}
