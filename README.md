@@ -9,6 +9,7 @@ Hint : gunakan rumus sqrt(x)
 ## Soal 2
 Misalkan terdapat response API sebagai berikut. 
 
+```
 let productBin = {
   "requestId": null,
   "data": [
@@ -45,6 +46,7 @@ let productBin = {
   ],
   "message": "success"
 }
+```
 Sebagai QA Engineer kalian ingin mengecek total quantity  dari bebarapa storageId untuk productCode FBR00040101 (FloBrand-DressBSPink). Buatlah sebuah program javascript untuk menjumlahkan quantity dari semua storageId untuk produk tersebut 
  
 Hint : Gunakan metode Pengulangan, Array dan Object keys (silakan cari referensi cara mendapatkan value dari json)
